@@ -4,7 +4,7 @@
 
 众所周知，TCP协议是一个 **可靠的** 的协议。TCP的可靠性依赖于大量的 **Timer** 和 **Retransmission** 。现在咱们就来细说一下TCP协议的那些 **Timer** 。
 
-![[obsidian_pikajian/Evernote/我的記事/_resources/TCP协议的那些超时_-_On_the_road.resources/unknown_filename.png]]
+![[obsidian_pikajian/Evernote/_resources/TCP协议的那些超时_-_On_the_road.resources/unknown_filename.png]]
 
 #### 1\. Connection-Establishment Timer
 
